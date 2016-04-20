@@ -13,7 +13,7 @@ var hohohoElement = document.getElementById("coloredReindeer");
 
 ### Screenshots:
 
-![Reindeer-Exercise.jpg](https://github.com/ZachParris/Colored-Reindeer/img/Reindeer-Exercise.jpg)
+![Reindeer-Exercise.jpg](https://github.com/ZachParris/Colored-Reindeer/blob/master/img/Reindeer-Exercise.jpg)
 
 
 
