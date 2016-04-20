@@ -5,8 +5,8 @@ var deerList = []
 var hohohoElement = document.getElementById("coloredReindeer");
 
 for (var i = 0; i < reindeer.length; i++) {
+	hohohoElement.innerHTML+= "<div>" + colors[i] + " " + reindeer[i] + "<div>"
 	// for (var j = 0; i < colors.length; i++) {
 	// 	deerList.push(reindeer[i] + colors[i]);
 	// }
-	hohohoElement.innerHTML+= "<div>" + colors[i] + " " + reindeer[i] + "<div>"
 };
